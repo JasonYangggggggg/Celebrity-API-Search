@@ -1,0 +1,133 @@
+.titleclass{
+
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+}
+
+
+h1{
+    font-family: fantasy;
+    font-size: 60px;
+    color: #ABAB26;
+    background-size: cover;
+    border-radius: 10%;
+    font-family: fantasy;
+    transition: all 0.5s;
+   
+}
+h1:hover{
+
+ color: #902B19;
+}
+#formclass{
+
+    margin-bottom: 30px;
+}
+
+#searchForm{
+
+    text-align: center;
+    
+}
+
+.searchclass:hover{
+    border-color: #EA632C;
+    box-shadow: 0 0.6em 0.2em -0.4em #EA632C;
+    transform: translateX(0.02em);
+}
+
+.searchclass{
+    color: silver;
+    background-color: black;
+    width: 120px;
+    background-size: cover;
+    height: 40px;
+    border-radius: 10%;
+    font-size: 30px;
+    font-family: fantasy;
+    transition: all 0.5s;
+
+}
+
+.input-go{
+    font-family: fantasy;
+    font-size: medium;
+    color: #CBCB43;
+    width: 150px;
+    height: 30px;
+    transition: all 0.5s;
+    
+}
+
+.input-go:hover{
+    background-color: #81726B;
+    border-color: #EA632C;
+    box-shadow: 0 0.6em 0.2em -0.4em #EA632C;
+    transform: translateX(0.05em);
+}
+
+
+#Remove-but:hover{
+    border-color: #EA632C;
+    box-shadow: 0 0.6em 0.2em -0.4em #EA632C;
+    transform: translateY(0.25em);
+
+}
+#Remove-but{
+    color: silver;
+    background-color: black;
+    width: 300px;
+    background-size: cover;
+    height: 50px;
+    border-radius: 10%;
+    font-size: 30px;
+    font-family: fantasy;
+    transition: all 0.5s;
+
+}
+
+
+#Clear-but:hover{
+    border-color: #EA632C;
+    box-shadow: 0 0.6em 0.2em -0.4em #EA632C;
+    transform: translateY(0.25em);
+}
+
+
+#Clear-but{
+    color: silver;
+    background-color: black;
+    width: 100px;
+    background-size: cover;
+    height: 50px;
+    border-radius: 10%;
+    font-size: 30px;
+    font-family: fantasy;
+    transition: all 0.5s;
+}
+
+.clear_remove_but{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+body{
+
+    background-image: url("https://archziner.com/wp-content/uploads/2020/07/black-background-trendy-backgrounds-digital-drawing-of-man-wearing-hoodie-to-x-for-eyes.jpg");
+    text-align: center;
+}
+
+#move-img{
+    border: solid black;
+    margin-top: 10px;
+    transition: all 0.5s;
+}
+
+#move-img:hover{
+    border-color: #AAAA28;
+    box-shadow: 0 0.6em 0.2em -0.4em #AAAA28;
+    transform: translateY(0.25em);
+}
